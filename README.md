@@ -1,8 +1,6 @@
 # <!DOCTYPE html>
 <html lang="en-us">
 <head>
-
-    <meta charset="UTF-8">
   <title>CSS Stylesheets with Relative Paths</title>
   <!-- This line is money! It points your HTML to the CSS file. -->
   <!-- Notice the "relative" pathway? It matches a file inside our current directory's "assets" folder. Open it to see our style rules. -->
