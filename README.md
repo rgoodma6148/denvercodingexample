@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html>
 <head>
   <!-- This line is money! It points your HTML to the CSS file. -->
   <!-- Notice the "relative" pathway? It matches a file inside our current directory's "assets" folder. Open it to see our style rules. -->
